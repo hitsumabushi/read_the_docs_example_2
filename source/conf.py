@@ -222,6 +222,15 @@ latex_elements = {
 #'figure_align': 'htbp',
 }
 
+#latex_elements['preamble'] = r"""
+#% モノクロ印刷時でも問題ないように、文字は白黒
+#\hypersetup{colorlinks = false}
+#% ページ番号を表示
+#\pagestyle{plain}
+#\thispagestyle{plain}
+#"""
+
+
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
