@@ -3,7 +3,7 @@
 
 コントロールパネルは、以下の画面構成になっています。
 
-.. figure:: /images/screen_01.gif
+.. figure:: /images/screen_01.png
    :alt: コントロールパネルの画像
    :align: center
 

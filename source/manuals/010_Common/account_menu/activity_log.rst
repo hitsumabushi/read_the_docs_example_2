@@ -4,5 +4,5 @@
 過去６カ月分のコントロールパネル操作ログをご確認いただけます。
 「ダウンロード」ボタンをクリックすると、該当月のログファイルを全件、CSV形式でダウンロードできます。
 
-.. figure:: /images/log/index01.gif
+.. figure:: /images/log/index01.png
 

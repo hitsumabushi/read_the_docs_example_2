@@ -7,6 +7,6 @@
 #. @nifty ID、パスワードを入力。
 #. 利用規約をご確認の上、「規約に同意して申し込む」にチェックし、お申し込みボタンをクリックしてください。
 
-.. figure:: /images/singnup01.gif
+.. figure:: /images/singnup01.png
    :alt: 利用規約
 

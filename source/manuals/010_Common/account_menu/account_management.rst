@@ -1,7 +1,7 @@
 アカウント管理
 ===========================
 
-.. figure:: /images/acc/list01.gif
+.. figure:: /images/acc/list01.png
 
 
 一覧

@@ -5,7 +5,7 @@
 -----------------------------------
 
 
-.. figure:: /images/notice/list01.gif
+.. figure:: /images/notice/list01.png
 
 .. list-table::
 

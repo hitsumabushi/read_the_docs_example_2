@@ -4,4 +4,4 @@
 サービスのご利用料金が表示されます。
 当月分（未確定）および過去分をご確認いただけます。
 
-.. figure:: /images/price/index01.gif
+.. figure:: /images/price/index01.png

@@ -6,7 +6,7 @@
 
 ライセンスの一覧が表示されます。
 
-.. figure:: /images/license/list01.gif
+.. figure:: /images/license/list01.png
 
 
 .. list-table::
@@ -21,15 +21,15 @@
 
 #. 「ライセンス利用数登録」ボタンをクリックします。
 
-   .. figure:: /images/license/operation01.gif
+   .. figure:: /images/license/operation01.png
 
 #. 「ライセンス利用数登録」ダイアログが表示されるので、それぞれの利用数を入力し、「確認へ」ボタンをクリックします。
 
-   .. figure:: /images/license/operation02.gif
+   .. figure:: /images/license/operation02.png
 
 #. 「ライセンス利用数入力　確認」ダイアログが表示されるので、内容に間違いがなければ「登録する」ボタンをクリックします。
 
-   .. figure:: /images/license/operation03.gif
+   .. figure:: /images/license/operation03.png
 
 #. ライセンス数入力が完了します。
 
@@ -39,15 +39,15 @@
 
 #. 「通知先メールアドレス 参照・登録」ボタンをクリックします。
 
-   .. figure:: /images/license/operation04.gif
+   .. figure:: /images/license/operation04.png
 
 #. 「通知先メールアドレス 参照・登録」ダイアログが表示されるので、「メールアドレス追加」をクリックし、通知先メールアドレスを入力します。
 
-   .. figure:: /images/license/operation05.gif
+   .. figure:: /images/license/operation05.png
 
 #. テストメールを受け取る場合は、「配信する」のチェックボックスをクリックし、「個人情報の取り扱いに同意して、登録する」ボタンをクリックします。
 
-   .. figure:: /images/license/operation06.gif
+   .. figure:: /images/license/operation06.png
 
 #. 通知先メールアドレス設定が完了します。
 
