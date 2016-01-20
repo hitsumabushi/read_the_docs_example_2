@@ -14,16 +14,16 @@ Contents:
 .. toctree::
    :maxdepth: 1
 
-   manuals/010_Common/summary
+   manuals/010_Common/index
 
-..  manuals/020_Computing/summary
-..  manuals/030_RDB/summary
-..  manuals/040_DNS/summary
-..  manuals/050_Message_Queue/summary
-..  manuals/060_ESS/summary
-..  manuals/070_MQTT/summary
-..  manuals/080_Storage/summary
-..  manuals/090_Monitoring/summary
+..  manuals/020_Computing/index
+..  manuals/030_RDB/index
+..  manuals/040_DNS/index
+..  manuals/050_Message_Queue/index
+..  manuals/060_ESS/index
+..  manuals/070_MQTT/index
+..  manuals/080_Storage/index
+..  manuals/090_Monitoring/index
 
 Indices and tables
 ==================

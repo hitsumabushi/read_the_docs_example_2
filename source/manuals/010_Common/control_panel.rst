@@ -3,7 +3,7 @@
 
 コントロールパネルは、以下の画面構成になっています。
 
-.. figure:: http://cloud.nifty.com/help/images/screen_01.gif
+.. figure:: /images/screen_01.gif
    :alt: コントロールパネルの画像
    :align: center
 
