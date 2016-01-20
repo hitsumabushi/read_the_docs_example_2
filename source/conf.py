@@ -382,7 +382,6 @@ if on_rtd:
     if force:
         backend.force(version)
     backend.clean(version)
-    return
-    backend.build(version)
-    if success:
-        backend.move(version)
+    #backend.build(version)
+    #if success:
+    #    backend.move(version)
