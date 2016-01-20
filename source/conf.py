@@ -372,3 +372,17 @@ epub_exclude_files = ['search.html']
 rst_prolog = """
 .. include:: /definitions/base.txt
 """
+
+# Read The Docs
+import os
+on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
+
+if on_rtd:
+    backend = get_backend(project.documentation_type)
+    if force:
+        backend.force(version)
+    backend.clean(version)
+    return
+    backend.build(version)
+    if success:
+        backend.move(version)
