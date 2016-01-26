@@ -376,12 +376,3 @@ rst_prolog = """
 # Read The Docs
 import os
 on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
-
-if on_rtd:
-    backend = get_backend(project.documentation_type)
-    if force:
-        backend.force(version)
-    backend.clean(version)
-    backend.build(version)
-    #if success:
-    #    backend.move(version)
